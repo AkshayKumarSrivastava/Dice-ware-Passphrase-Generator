@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1509828197 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\random_num_generator.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+
+1509856540 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\cursor_position.c
+	<windows.h>
+
+1509882783 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1509879882 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\selection_effect.c
+
+1509858421 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\setcolor.c
+	<windows.h>
+
+1509859076 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\show_passphrase.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+
+1509882338 source:c:\users\suvash raj\desktop\diceware_passphrase_generator\selection_effect_out.c
+
+1509856542 source:c:\entertainment\project_c\diceware_passphrase_generator\cursor_position.c
+	<windows.h>
+
+1509882784 source:c:\entertainment\project_c\diceware_passphrase_generator\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1509828198 source:c:\entertainment\project_c\diceware_passphrase_generator\random_num_generator.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+
+1509879884 source:c:\entertainment\project_c\diceware_passphrase_generator\selection_effect.c
+
+1509882340 source:c:\entertainment\project_c\diceware_passphrase_generator\selection_effect_out.c
+
+1509858422 source:c:\entertainment\project_c\diceware_passphrase_generator\setcolor.c
+	<windows.h>
+
+1509882908 source:c:\entertainment\project_c\diceware_passphrase_generator\show_passphrase.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+
